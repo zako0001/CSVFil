@@ -1,0 +1,1 @@
+public record Covid19Data(String region, String ageInterval, int cases, int dead, int admittedIntensive, int admitted, String date) {}
